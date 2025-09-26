@@ -1,4 +1,4 @@
-# HTTP Analysis – CN Assignment 01
+# HTTP Analysis
 
 ## Q1. What is the name of website?
 The website accessed is identified by the **Host header** in the GET request:  
