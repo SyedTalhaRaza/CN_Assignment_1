@@ -1,4 +1,4 @@
-# HTTPS Analysis – CN Assignment 01
+# HTTPS Analysis
 
 ## Q7. What is the name of website?
 **Website:** `www.techtarget.com`
