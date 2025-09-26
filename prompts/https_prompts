@@ -1,1 +1,6 @@
-
+What are the steps to capture HTTPS traffic in Wireshark?
+How can we identify the ClientHello and ServerHello packets?
+Which TLS extensions are included in the ClientHello message?
+How can we determine which cipher suite was selected by the server?
+Why is the Certificate message not visible when using TLS 1.3?
+How can we find the first encrypted application data packet?
