@@ -1,0 +1,4 @@
+How should the repository be structured for this assignment?
+What are the steps to capture HTTP traffic using Wireshark?
+How can we locate the first HTTP GET request and view its headers?
+How can we verify whether the HTTP connection is persistent?
